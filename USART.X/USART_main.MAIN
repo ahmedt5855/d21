@@ -1,0 +1,15 @@
+/*
+ * File:   USART_main.MAIN
+ * Author: ahmed
+ *
+ * Created on February 27, 2022, 4:33 PM
+ */
+
+
+#include <avr/io.h>
+
+int main(void) {
+    /* Replace with your application code */
+    while (1) {
+    }
+}
